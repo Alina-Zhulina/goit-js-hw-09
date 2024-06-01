@@ -60,3 +60,9 @@ ul {
 height: 640px;
 width: 1112px;
 }
+.sl-wrapper {
+  background-color: rgba(46, 47, 66, 0.8);
+}
+.sl-caption {
+  text-align: center;
+}
